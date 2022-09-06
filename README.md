@@ -1,4 +1,3 @@
 # mern_project
-MERN web application
 
-Hobby project using the MERN stack. 
+Hobby project, building a web application using the MERN stack. 
