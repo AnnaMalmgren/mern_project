@@ -7,7 +7,7 @@ dotenv.config({ path: '../.env' })
 const options = {
   useNewUrlParser: true,
   useUnifiedTopology: true,
-  autoIndex: false,
+  autoIndex: true,
 }
 
 mongoose.connect(process.env.DB_CONNECTION_URL, options)
